@@ -15,17 +15,7 @@ Coming soon!
 
 ## Some Quick Stats
 
-<p float="left">
-  <a href="https://github.com/ekowidianto/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekowidianto&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Eko's%20GitHub%20Stats" />
-  <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekowidianto&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,ekowidianto.github.io&title_color=dd58c1"/>
-  -->
-  </a>
-</p>
-
 ![GitHub followers](https://img.shields.io/github/followers/ekowidianto?style=social)
-![Profile Views](https://gpvc.arturio.dev/ekowidianto)
 
 <!--
 **ekowidianto/ekowidianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
