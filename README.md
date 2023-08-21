@@ -1,7 +1,6 @@
 <h1 align="center">🤠 Henlo! I'm Eko</h1>
 
-- 🔭 **I’m currently working** as a full-stack software engineer [@AISG](https://aisingapore.org/) - AI Center for Educational Technology (AICET)
-- 🌱 **I’m currently pursuing** MS in Computer Science [@gatech](https://www.gatech.edu/)
+- 🔭 **I’m currently working** as a full-stack software engineer [@AISG](https://aisingapore.org/)
 
 <div align="center">
 
