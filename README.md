@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Henlo! I'm Eko</h1>
+<h1 align="center">🤠 Hi! I'm Eko</h1>
 
 <div align="center">
 
