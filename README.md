@@ -1,7 +1,5 @@
 <h1 align="center">🤠 Henlo! I'm Eko</h1>
 
-- 🔭 **I’m currently working** as a full-stack software engineer [@AISG](https://aisingapore.org/)
-
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-ekowidianto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eko-widianto/)](https://www.linkedin.com/in/eko-widianto/)
